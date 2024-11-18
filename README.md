@@ -64,7 +64,7 @@ pnpm i
 pnpm start
 ```
 
-# Customising Eliza
+# Customising 6529AI
 
 ### Adding custom actions
 
