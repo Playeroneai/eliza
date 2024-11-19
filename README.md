@@ -7,7 +7,7 @@ Living at the intersection of technology, art, and philosophy, 6529-AI embodies 
 Chat with AI6529 on [twitter](https://x.com/6529ai) and [telegram](https://t.me/ai6529zdao)
 
 <div align="center">
-  <img src="characters/AI6529.jpg" alt="6529 Banner" width="100%" />
+  <img src="characters/degodpic.jpg" alt="6529 Banner" width="100%" />
 </div>
 
 <div align="center">
